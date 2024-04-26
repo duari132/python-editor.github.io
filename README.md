@@ -1,4 +1,4 @@
-# CS in Schools Editor
+# Python Online Editor
 Run Python in the browser.
 
-Learn more at https://csinschools.com.
+Based on [https://csinschools.github.io/editor/](https://csinschools.github.io/editor/)
